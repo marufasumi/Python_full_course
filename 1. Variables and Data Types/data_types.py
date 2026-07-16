@@ -10,4 +10,3 @@ print(type(is_student))
 print(type(gender))
 
 
-# To check the data type use type() function
