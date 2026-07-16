@@ -3,7 +3,9 @@ age=25
 gender='Male'
 
 # print("Hello",name,"your age is",age,"and gender is",gender)
-# print("Hello " + name + " your gender is "+gender + "your age is "+age)
+# print("Hello " + name + " your gender is "+gender + "your age is "+age)  
+
+# we will get error for "your age is" + age   part beacuse  age is a integer and we can not add string + integer
 
 
 # print(name,age,gender,sep="-")
