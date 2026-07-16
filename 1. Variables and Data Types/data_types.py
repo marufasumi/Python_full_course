@@ -1,7 +1,7 @@
-name="Anirudh"
-age=25.5
-gender='Male'
-is_student=True
+name="Anirudh"  # string 
+age=25.5   # integer
+gender='Male'  # string can be in double quote or single quote
+is_student=True  # Boolean
 
 print(type(name))
 print(type(age))
