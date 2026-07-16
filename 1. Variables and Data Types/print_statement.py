@@ -8,7 +8,7 @@ gender='Male'
 # we will get error for "your age is" + age   part beacuse  age is a integer and we can not add string + integer
 
 
-# print(name,age,gender,sep="-")
+# print(name,age,gender,sep="-")  # by default separator is space
 # print(name,end=" ")
 # print(age,end=" ")
 # print(gender)
